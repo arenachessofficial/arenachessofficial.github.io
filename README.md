@@ -27,7 +27,7 @@ It’s designed to make online chess competitive, fair, and fun — all in one s
 ---
 
 ## 💬 Contact & Community
-📢 **Telegram:** [Join the ArenaChess Community](https://t.me/arenachessofficial) *(add your real group link here)*  
+📢 **Telegram:** [Join the ArenaChess Community](https://t.me/arenachessofficial) 
 📧 **Email:** arenachessofficial@gmail.com
 🌍 **Website:** [https://arenachessofficial.github.io/](https://arenachessofficial.github.io/)
 
